@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Ноутбук Lenovo ThinkPad",
+    "cost": 85000,
+    "volume": 5,
+    "receptionist": 11
+  },
+  {
+    "id": 2,
+    "title": "Смартфон Samsung Galaxy S21",
+    "cost": 60000,
+    "volume": 10,
+    "receptionist": 12
+  },
+  {
+    "id": 3,
+    "title": "Телевизор LG OLED55",
+    "cost": 120000,
+    "volume": 2,
+    "receptionist": 13
+  },
+  {
+    "id": 4,
+    "title": "Микроволновая печь Panasonic NN-GD38HS",
+    "cost": 15000,
+    "volume": 7,
+    "receptionist": 14
+  }
+]
